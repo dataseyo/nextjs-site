@@ -11,7 +11,7 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
         <p>I'm Zachary, a Philosopher of Physics turned software engineer. </p>
         <p>
-          Fiona is cute
+          (site under development)
         </p>
       </section>
     </Layout>
