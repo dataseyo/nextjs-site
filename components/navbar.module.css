@@ -1,0 +1,18 @@
+.nav {
+  display: flex;
+  background-color: #222222;
+  border-bottom: 1px solid;
+}
+
+.navmenu {
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  font-size: 400;
+}
+
+.navitem {
+  margin-left: 3rem;
+  list-style: none;
+  color: #1233;
+}
