@@ -1,0 +1,14 @@
+.card {
+  background: #edd6af;
+  min-width: 320px;
+  height: 450px;
+  margin: 10px;
+}
+
+.cardimage {
+  background-color: grey;
+  height: 190px;
+  margin-bottom: 15px;
+  background-image: url("/images/placeholder.jpg");
+  background-size: cover;
+}
