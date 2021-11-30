@@ -10,7 +10,7 @@ export default function Card(props) {
 
             <p>{props.name}</p>
 
-            <button></button>
+            <button>Link</button>
 
         </div>
     );
