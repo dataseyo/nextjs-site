@@ -1,6 +1,6 @@
 import styles from "./card.module.css"
 
-export default function Card() {
+export default function Card(props) {
     // cards to display and link to projects
 
     return(
@@ -8,7 +8,7 @@ export default function Card() {
             <img>
             </img>
 
-            <p>Card</p>
+            <p>{props.name}</p>
 
             <button></button>
 
